@@ -8,6 +8,7 @@ The goal is to gain insights into which factors may influence a movie's financia
 Source: Kaggle
 
 🛠️ Tools & Libraries
+
   🔹 Python 3  
   🔹 Pandas  
   🔹 NumPy  
